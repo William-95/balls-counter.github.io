@@ -15,6 +15,7 @@
 <img src="img/screen.jpeg" width="30%">
 
 <p align=right><a href="#0">back to top</a></p>
+
 ---
 
 ### <a name="2">Built With</a>
@@ -24,6 +25,7 @@
 - [Javascript](https://www.javascript.com/)
 
 <p align=right><a href="#0">back to top</a></p>
+
 ---
 
 ### <a name="3">Usage</a>
@@ -37,6 +39,7 @@ You can restart the counter value using the restart button.
 _[follow this link](https://balls-counter.netlify.app/)_
 
 <p align=right><a href="#0">back to top</a></p>
+
 ---
 
 ### <a name="4">Contact</a>
