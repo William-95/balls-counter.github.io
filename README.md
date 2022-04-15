@@ -18,3 +18,9 @@ You can restart the counter value using the restart button.
 <br/>
 To test the app:
 _[follow this link](https://balls-counter.netlify.app/)_
+
+## Contact
+
+William - verga.william.95@gmail.com
+
+Project Link: [https://github.com/William-95/balls-counter.github.io](https://github.com/William-95/balls-counter.github.io)
