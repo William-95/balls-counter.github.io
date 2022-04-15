@@ -67,6 +67,16 @@ ul {
     background: radial-gradient(circle, rgba(28,150,17,1) 0%, rgba(85,249,29,1) 0%, rgba(25,117,6,1) 100%);
   }
 }
+footer{
+  padding:7px;
+  margin-top: 20px;
+  text-align: center;
+  background: #4D4D4D;
+  color: white;
+  p{
+    background: #4D4D4D;
+  }
+}
 @-webkit-keyframes left-to-right {
   0% {
     left: 5%;

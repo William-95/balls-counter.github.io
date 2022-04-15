@@ -57,6 +57,15 @@ ul {
     background: #1c9611;
     background: radial-gradient(circle, #1c9611 0%, #55f91d 0%, #197506 100%); }
 
+footer {
+  padding: 7px;
+  margin-top: 20px;
+  text-align: center;
+  background: #4D4D4D;
+  color: white; }
+  footer p {
+    background: #4D4D4D; }
+
 @-webkit-keyframes left-to-right {
   0% {
     left: 5%;
