@@ -1,3 +1,4 @@
+ @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap'); //font-family: 'Kalam', cursive;
 * {
   margin: 0;
   padding: 0;
@@ -7,6 +8,7 @@
 
 html {
   scroll-behavior: smooth;
+  font-family: 'Kalam';
 }
 
 h1 {
